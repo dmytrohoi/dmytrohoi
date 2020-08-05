@@ -15,8 +15,8 @@
 
 |Language|Packages|Repos|
 |--------|--------|-------|
-|Python|[![PyPI](https://img.shields.io/endpoint?url=https%3A%2F%2Fpatient-pond-6d93.hoigroup.workers.dev%2F%3Fq%3DPypi)](https://pypi.org/user/dmytrohoi/)|[![GitHub](https://img.shields.io/endpoint?url=https%3A%2F%2Fpatient-pond-6d93.hoigroup.workers.dev%2F%3Fq%3DPython)](https://github.dmytrohoi.com/?tab=repositories&q=&type=public&language=Python)|
-|JavaScript|[![NPM](https://img.shields.io/endpoint?url=https%3A%2F%2Fpatient-pond-6d93.hoigroup.workers.dev%2F%3Fq%3DNPM)](https://www.npmjs.com/~dmytrohoi)|[![GitHub](https://img.shields.io/endpoint?url=https%3A%2F%2Fpatient-pond-6d93.hoigroup.workers.dev%2F%3Fq%3DJavascript)](https://github.dmytrohoi.com/?tab=repositories&q=&type=public&language=Javascript)|
+|Python|[![PyPI](https://img.shields.io/endpoint?url=https%3A%2F%2Fbadges.dmytrohoi.workers.dev%2F%3Fq%3DPypi)](https://pypi.org/user/dmytrohoi/)|[![GitHub](https://img.shields.io/endpoint?url=https%3A%2F%2Fbadges.dmytrohoi.workers.dev%2F%3Fq%3DPython)](https://github.dmytrohoi.com/?tab=repositories&q=&type=public&language=Python)|
+|JavaScript|[![NPM](https://img.shields.io/endpoint?url=https%3A%2F%2Fbadges.dmytrohoi.workers.dev%2F%3Fq%3DNPM)](https://www.npmjs.com/~dmytrohoi)|[![GitHub](https://img.shields.io/endpoint?url=https%3A%2F%2Fbadges.dmytrohoi.workers.dev%2F%3Fq%3DJavascript)](https://github.dmytrohoi.com/?tab=repositories&q=&type=public&language=Javascript)|
 
 </details>
 
