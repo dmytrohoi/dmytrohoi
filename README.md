@@ -25,4 +25,4 @@
 
 📝 [![Dev.to](https://img.shields.io/badge/dev.to-dmytrohoi-lightgrey?style=flat&logo=dev.to)](http://dev.to/dmytrohoi)   [![Habr.com](https://img.shields.io/badge/habr.com-dmytrohoi-89aab8?style=flat&logo=habr)](http://habr.com/users/dmytrohoi)   [![Telegram Channel](https://img.shields.io/badge/channel-higaindev-0088cc?style=flat&logo=telegram)](https://t.me/higaindev)
 
-👓 [![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/9468922?logo=stackoverflow)](https://stackoverflow.com/users/9468922/dmytro-hoi) [![Habr karma](https://img.shields.io/endpoint?url=https%3A%2F%2Fbadges.dmytrohoi.workers.dev%2F%3Fq%3DHabr)](https://habr.com/user/dmytrohoi)
+👓 [![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/9468922?logo=stackoverflow)](https://stackoverflow.com/users/9468922/dmytro-hoi) [![Habr karma](https://img.shields.io/endpoint?url=https%3A%2F%2Fbadges.dmytrohoi.workers.dev%2F%3Fq%3DHabr)](https://habr.com/users/dmytrohoi)
