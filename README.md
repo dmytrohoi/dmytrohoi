@@ -2,11 +2,12 @@
 
 ⌛ Experience: 2+ years
 
-🎓 Education: Master of System Analysis - NURE, Kharkiv
+🎓: ![NURE Master of System Analysis](https://img.shields.io/badge/NURE-System%20Analysis-green.svg?logo=&style=flat)
 
-💬 Other Languages: JS, sh, Go, Ruby
+💻: ![javascript](https://img.shields.io/badge/javascript-white.svg?logo=javascript&style=flat), ![sh](https://img.shields.io/badge/sh-white.svg?logo=gnu-bash&style=flat), ![Go](https://img.shields.io/badge/Go-white.svg?logo=go&style=flat).
 
-🎸 Hobby: Guitar, Games
+🏖: ![Guitar Ibanez](https://img.shields.io/badge/Ibanez-white.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAwCAYAAABT9ym6AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAMqADAAQAAAABAAAAMAAAAAAPC/zLAAAI+UlEQVRoBd1Ze1BU1xn/7ZN9s8u+YIEVecgCLqCAQEBF66MhKqYGrSamtjNqmjZ9xBn/SGeaTexMMpm0MXYyGafTaTtSW000tJoYbBJFAV8rICIgyLrswu6yC+iy7IN93d5lBgbJmvKQh73/3HPPPef7fr/7+873nTMX+D+5aE8bj/J15cUygWxw57adyqXKxUe0rU2nnzYOSE5OJkKgt64rJjhRIqLiwPPEjlWrR/qoTwObkpISVnZCtpDHisBvt+QRXfd1OPPOAXQy4n0nLlVTQhwWNJH8/HyiMGNjFM3nudXj7H6QE0mAw4zA4cPv4991uiNvvnuEOSoEfbSxEO+cAPVgFMfcL1dl4uVlUiwq2Ykgl4aThytyPqo6Uz8e84gs4zsWUntD0iKiUB0DZRywOS8Nt2/exnta7h+q6qoPTMS5oImkxkUTHiYTy6JZOFgUAHXt71Hw7NawmBds+i0uLiYodCbYXCEy+QQeUmOx4+A7YUmE1FmQayQjNYVYHB8HvcUMBYO7+cj5a2cnhtLE5wWliEajoRp0umBGugpdhi4ICcoHldUX/jgRdLjnx0oVbvBs9pFVjZKSEBdMTVPDpDdCwGfeqL5ev2KyPheMIve2biKipBLcvduOSA7DfPnmLdVkSYTGzXtBDIVTjFxM+AMEmpqaESOMtNc2NiumQiI0dl4VOanRMK3eIV/QT0F7Rxv4LI73SlMzb6ok5pWI5tVXeR+dOukadnuRl5OFtg5dsLGtnTEdEvM252ONJiEnJZkoK91AZJDVuyAna2QHOxNAc561nl+1Ya03aP+65PulOHH8H2ByeKjTameMY07XSGl+fpmb4jlHYTBxqaYWP9iyGcc+OTVjEjNR8pG5m9au0wqZDGJ17gqvprx8bGs9ftCesrLN+csziTUrC4klqYuJldnqGYfTePszbku4LCI7PZXIEQkHHmfs7V/8entuZgaxce0qIkkZS+Rlqp44iRnJKhMJiPS0pXCajbhx3xjW1i/37v+4vunaKyyOAAaDAWwWC4132sKOfdyHmEz/tAtibJTkiyWp6XAYDY8l8cGht/7Z0Fj/Ck8gQm+vFWIBb1ZIhIhOmwhXwHo2XaXCsG847Ad7ofS5E1Vff7Vjz09egqXXBgGHhbqG5ieuxKjzaRERcdhOeYwSN6r+g/yCglFbY/ddL5RXrShcvp3H4+Lonyqwd/eLqNE2zhqJkONpGc9PSSCU5Dm65XwVfOSybfcOj9nZsLr4HpVCSWKTYbSioBDnTn+GS9qGsfdjbJ9wY8qK5ETLiXS5DIkyOXK+twZsIoCXyAr96d/+Mrh+zSpi9+5dSRyBADYynL754vM5IRH6JlMqiHEUil6lkApz0hIglUvg8VDAj5PD4/PjwpW6CIVcDqfbg5KCZ6BtvoWLtddnXYlRYSfriJIjlwSfSY5FcoIY2cVFsBr1aLpjQp+XBuOwG0KJFE6PG36vDxFsFj797OxkbY9imdH9O8/sRanLFAGXpSdJwEWiUojsLBW4IcADvXA/1EMkZIMpTgHRZ4e5zwqKL4DBQTt2FWzikkRmBGyqk8MSSRFGXkiTikrEkUEkqVVYnh6PmIRY0OhsdHW2gvD68drRWqzdUgbD7Sv48Q+3w3juS7jcLqwv2qjcr9G4pgpkpuMfkX/fuvJIq0H7MFmpQGI8D3IpH2JFDDxBOqRRLFj1esTIBbjT2owjX/VBGJcElSoNFceP4Y1f/RSX/3UGlTfqH7E5U4CTnT/m9OWVG8s4QXOlOkmEmPjFYER4kaVOhJ9cyPouGyKoPiTEMVBzuR1CsRSWfhs+76Ciw+KAY8iNpBQF2L12VDaE35LnKmL7taYe8WSBTXXcWPqlDHVXLlfJkJubCQ6fjqVLM6DvuA8WbQh2iw40qgMtFiY4EhmZ6+iQRVKxLY0Op80CgZCPzuZWyLLILUt/b3A8iL+/92HKc0UFxGySCPkbUaRQFlOzZWViUYKCAYFICnm0BLZ+K2KjmBgYdMPn8UCrp+B0UzdE0li8XiKC2/4A1t5+LElKQ6euB3UmwOX34e5VLdw+DwgqHZwoIZRL1bDre9+62N6sGU/wSbdH6ohKGf3nFCkQyWeBSQ1CEkXHsNMNLo+FjlYDagx0ZC/igaIuRW9XF75pNkNJCWCZWo57+na4/VTw2XI4mFyw4hchJiUdDKkY/YNO1NY3UPT91otPGvhEeyNZi03WxSAZEC6nB2IRB06nFzIpG3qdERf1XgxE8HC11ozfrG+AVSHF1evd+KuXixSlkfxfISRDS4ZWXT/sPUMwDdnhsDvfvGMwvD3R2Ww+jyjCDdLjWNTg8nhJAEw6izwzMGC19pEhRcOhc63oIdtyvhQVF5qxLZ6JNocPPlMn1GR2S06TIxBg4VabGS1d3bjWoaPY7Pbq2QQdzvbIYm8Y6N1rcwB2Jwc8PqC/3wafjwaL2YBD66Phddhh6rOAH8nD777U4t1SPo7+PBdSAQ19fXR0ucixlofY97PXBOGczEXf2F7L5Q7skdCpwsCwDRKRGDSaDw43AXWWEkXRXFTUtSJWGYtjP0qF2TKM1ytaoDM9RHqGGsfPXCHDyYEPT51+Yy5Ah/MxVkdCL0sUUkIlZSBa6CcPQgSyc1Wg+rmwOgYhZAfAEcnRT6rkBwGbXYi0ZD4GhpiobnNDP/DAUVlzdd4UeYRIiExalIDIk1CRvyyezF48uBwPQI8IIIIhgNtpgVBE/gejU0b6xHF5uKklE8K1VnzScu9btkL25uoaK4ijDlsHBikmTwS0bWQGMpGbQUsfYuUKMqt1gyDEcHlsZELwIjo5HybDAFqNTgy5nKPT5+3+LSIhJC0PIqXN3QNo73GALUzEtfoWGE1UDDu85BnEBwqpTuOlVrx4+CxMrgHk79k/ttbmi8l3hkNeFJ9YFEVFNJ8BVaoUXpcfUokfVGY0+l1CXNYNwtzViRqj5TvtzAW5/wkgSyoh5IwQmSDy1EoYrDZ4gzzYwYHJ2I/zXeTeZQFckwIRyeAcjRGx9ymYdNAiuCB39XAOuYev9phZC4DDtCFMivy0rU9z4n8BuGNC9hHGe+kAAAAASUVORK5CYII=&color=orange&style=flat),
+![Games PS](https://img.shields.io/badge/PlayStation-white.svg?logo=playstation&color=blue&style=flat)
 
 -----
 
@@ -25,4 +26,10 @@
 
 📝 [![Dev.to](https://img.shields.io/badge/dev.to-dmytrohoi-lightgrey?style=flat&logo=dev.to)](http://dev.to/dmytrohoi)   [![Habr.com](https://img.shields.io/badge/habr.com-dmytrohoi-89aab8?style=flat&logo=habr)](http://habr.com/users/dmytrohoi)   [![Telegram Channel](https://img.shields.io/badge/channel-higaindev-0088cc?style=flat&logo=telegram)](https://t.me/higaindev)
 
-👓 [![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/9468922?logo=stackoverflow)](https://stackoverflow.com/users/9468922/dmytro-hoi) [![Habr karma](https://img.shields.io/endpoint?url=https%3A%2F%2Fbadges.dmytrohoi.workers.dev%2F%3Fq%3DHabr)](https://habr.com/users/dmytrohoi) [![CodeWars info](https://www.codewars.com/users/dmytrohoi/badges/micro)](https://www.codewars.com/users/dmytrohoi)
+🎙 [![Habr karma](https://img.shields.io/endpoint?url=https%3A%2F%2Fbadges.dmytrohoi.workers.dev%2F%3Fq%3DHabr)](https://habr.com/users/dmytrohoi) [![CodeWars info](https://www.codewars.com/users/dmytrohoi/badges/micro)](https://www.codewars.com/users/dmytrohoi)
+
+📸 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=dmytrohoi.dmytrohoi)](https://visitor-badge.glitch.me/)
+
+------
+
+[![Activity](https://github-readme-stats.vercel.app/api?username=dmytrohoi&count_private=true)](https://github-readme-stats.vercel.app/)
